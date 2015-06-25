@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Usar jquery con la libreria de JavaScript
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
